@@ -1,1 +1,7 @@
-"streamlit\npandas\nnumpy\nxgboost\nshap\nplotly\nscikit-learn" 
+streamlit==1.32.0
+pandas==2.2.0
+numpy<2.0.0
+xgboost==2.0.3
+shap==0.44.1
+plotly==5.19.0
+scikit-learn==1.4.1

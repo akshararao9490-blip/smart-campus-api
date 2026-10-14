@@ -1,0 +1,1 @@
+"streamlit\npandas\nnumpy\nxgboost\nshap\nplotly\nscikit-learn" 
